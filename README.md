@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brayan Campos</h1>
-<h3 align="center">A passionate database administrator from México.</h3>
+<h3 align="center">A passionate programmer and database administrator from México.</h3>
 
 - 🌱 I’m currently learning **Database development and management.**
 
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **SQL and Python**
 
 - 📫 How to reach me **brayan.campos.finance@gmail.com**
 
